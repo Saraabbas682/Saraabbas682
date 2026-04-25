@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sara Abbas 👋
 
-<!--
-**Saraabbas682/Saraabbas682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Computer Science student with a focus on Data Science and AI.
+I enjoy building projects in Python, C++, and Java.
 
-Here are some ideas to get you started:
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Studying Computer Science (Junior year)
+- Building projects in Python and exploring data science concepts
+- Looking for internship opportunities in software development or data
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saraabbas-cs)
+
+
